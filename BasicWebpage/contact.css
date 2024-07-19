@@ -1,0 +1,11 @@
+.con-img{
+    width: 600px;
+    height: auto;
+}
+.footer{
+    background-color: whitesmoke;
+    color: #333;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
